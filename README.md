@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@rladev 
-durgeshsamariya
-/
-awesome-github-profile-readme-templates
-Public
-Code
-Issues
-Pull requests
-23
-Actions
-Projects
-Wiki
-Security
-Insights
-Create Kaustav.md
- master (#249)
-@kaustav202
-kaustav202 committed on 23 May 
-1 parent a7527fc commit 1b7630b06b2cb13736c2a7f824111a8ee07f4b10
-Showing 1 changed file with 410 additions and 0 deletions.
- 410  
-Kaustav.md
-@@ -0,0 +1,410 @@
 # Hello👋, Welcome to my Github Profile
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
@@ -68,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Languages
 
-![Typescrip](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Typescript](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Solidity](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Rust](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;
@@ -386,26 +356,3 @@ Featured Repositories.
 
 <!--
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaustav202%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>  -->
-
-
-0 comments on commit 1b7630b
-@rladev
- 
-Leave a comment
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
- You’re not receiving notifications from this thread.
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
