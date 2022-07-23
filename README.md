@@ -38,8 +38,8 @@ You can click the Preview link to take a look at your changes.
 
 #### Languages
 
-![Typescript](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Solidity](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
+![Typescript](https://img.shields.io/badge/Typescript-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Solidity](https://img.shields.io/badge/Solidity-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Rust](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
